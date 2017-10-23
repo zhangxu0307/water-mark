@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c9acc6c6-3f55-4b6f-9a17-86b2b1bc2c2d" name="rinc_GPU" url="http://114.212.81.211">
+        <fileTransfer host="114.212.81.211" port="22" rootFolder="/home/zhangxu/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
